@@ -1,13 +1,13 @@
 # SQL-Questions
 Best SQL Questions and their detailed Explanation
 
-# 🧠 SQL Practice Bootcamp
+# SQL Practice Bootcamp
 
 Welcome to the **SQL Practice Bootcamp** – your one-stop repo to learn, practice, and master SQL from basics to real-world interview questions!
 
 ---
 
-## 🚀 What’s Inside
+## What’s Inside
 
 This repo is structured into 4 sections:
 
@@ -23,23 +23,14 @@ Tackle challenging patterns like:
 - Duplicates and ranking edge cases
 - Complex filtering using `CASE`, `LEAD/LAG`, `CTEs`
 
-## 🧪 Datasets
+## Datasets
 
 Sample CSV files are provided in the `datasets/` folder.
 You can load these into any SQL engine (like SQLite, PostgreSQL, MySQL, DuckDB) for practice.
 
 ---
 
-## 💡 How to Use
-
-- Use an IDE like **DBeaver**, **DB Browser for SQLite**, or **Jupyter + DuckDB**
-- Or, copy queries into an online playground like:
-  - [SQLite Online](https://sqliteonline.com/)
-  - [W3Schools SQL Try-it](https://www.w3schools.com/sql/trysql.asp)
-
----
-
-## 🧠 Topics Covered
+## Topics Covered
 
 - Filtering and Aggregations
 - GROUP BY & HAVING
@@ -51,7 +42,7 @@ You can load these into any SQL engine (like SQLite, PostgreSQL, MySQL, DuckDB) 
 
 ---
 
-## 📈 Progress Tracker (Optional)
+## 📈 Progress Tracker 
 
 You can tick off questions as you practice them:
 
