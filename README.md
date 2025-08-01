@@ -1,9 +1,6 @@
-# SQL-Questions
-Best SQL Questions and their detailed Explanation
+# SQL Best Questions - 
 
-# SQL Practice Bootcamp
-
-Welcome to the **SQL Practice Bootcamp** – your one-stop repo to learn, practice, and master SQL from basics to real-world interview questions!
+Welcome to the **SQL High Quality Questiions** – one-stop repo to learn, practice, and master SQL from basics to real-world interview questions!
 
 ---
 
