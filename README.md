@@ -1,7 +1,8 @@
-# SQL Best Questions - 
-
-# LeetCode Top 50 Questions
-# Stratascratch Medium/Hard Questions
-# Google SQL Questions
-# PayPal SQL Questions
-# Demandbase SQL Questions
+### SQL - Solved the Goldmine of Interview Questions
+#### (solved most asked interview questions from Big Tech to Startups in my way, with detailed explanation)
+-----------------
+##### 1. LeetCode Top 50 Questions
+##### 2. Stratascratch Medium/Hard Questions
+##### 3. Google SQL Questions
+##### 4. PayPal SQL Questions
+##### 5. Demandbase SQL Questions
